@@ -1,6 +1,7 @@
 # Backend Developer Application Test
 
-**Mock Shop** is a simple shopping server. You are required to develop the backend API
+**Mock Shop** is a simple shopping server. You are required to develop the backend API. 
+You can clone this git repository and get to work!
 
 **Due Date:** 6 days after Test email receipt (Usually places due dat on Friday, at noon).
 
@@ -16,9 +17,6 @@
 - A user can see his/her cart.
 - User can delete product from thier cart.
 
-## Authentication
-- You're expected to use `BEARER TOKEN` and `JWT` to handle all authentications and Authorizations.
-
 ## Tools
 - Server side Framework: ***Nodejs/Express***
 - Linting: ***ESLint***
@@ -31,10 +29,11 @@
 ## Requirements
 1. Make sure your endpoints are well documented with Swagger. This will help evaluators better test your code.
 2. Seed the database with enough data to aid in evaluation (i.e. lots of products to work with).
-3. Host code on Github repository, with a well detailed readme.
-4. Host the API on a heroku live server.
-5. API versioning is expected, for example: `https://exampleapp.com/api/v1`
-6. Use appropriate HTTP status codes.
+3. You're expected to use `BEARER TOKEN` and `JWT` to handle all authentications and Authorizations.
+4. Host code on Github repository, with a well detailed readme.
+5. Host the API on a heroku live server.
+6. API versioning is expected, for example: `https://exampleapp.com/api/v1`
+7. Use appropriate HTTP status codes.
 
 
 ## Stand out
