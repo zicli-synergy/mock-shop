@@ -2,7 +2,7 @@
 
 **Mock Shop** is a simple shopping server. You are required to develop the backend API
 
-**Due Date:** Friday, February 14.
+**Due Date:** 6 days after Test email receipt (Usually places due dat on Friday, at noon).
 
 ## Features
 
@@ -82,13 +82,12 @@ The API endpoints should respond with a JSON object specifying the HTTP ***statu
   "price": FLOAT,
   "imageUrl": STRING,
   "inStock": BOOLEAN,
-  "
 }
 
 // cart
 {
   "id": INTEGER,
-  "productId": INTEGER //association with product.id
-  "userId": INTEGER //association with user.id
+  "productId": INTEGER, //association with product.id
+  "userId": INTEGER, //association with user.id
 }
 ```
