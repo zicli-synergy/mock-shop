@@ -14,8 +14,8 @@ You can clone this git repository and get to work!
 - Admin can edit a Product.
 - Users/Admin can see all products.
 - Users can add product to a Cart.
-- A user can see his/her cart.
-- User can delete product from thier cart.
+- A user can see product in his/her cart.
+- User can delete a product from his/her cart.
 
 ## Tools
 - Server side Framework: ***Nodejs/Express***
