@@ -60,6 +60,7 @@ The API endpoints should respond with a JSON object specifying the HTTP ***statu
 ```
 
 ### Data Specifications
+These specifications are only a guide to aid in developing the application. You have the freedom to come up with your own specifications, as long as the API functions properly and returns appropriate responses. 
 
 ```javascript
 // user
