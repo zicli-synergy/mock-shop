@@ -3,7 +3,7 @@
 **Mock Shop** is a simple shopping server. You are required to develop the backend API. 
 You can clone this git repository and get to work!
 
-**Due Date:** 6 days after Test email receipt (Usually places due dat on Friday, at noon).
+**Due Date:** 6 days after Test email receipt (Usually places due date on Friday, at noon).
 
 ## Features
 
