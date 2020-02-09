@@ -1,4 +1,4 @@
-# Backend Developer Application Test
+# Backend Developer Application Challenge
 
 **Mock Shop** is a simple shopping server. You are required to develop the backend API. 
 You can clone this git repository and get to work!
