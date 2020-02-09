@@ -69,7 +69,7 @@ The API endpoints should respond with a JSON object specifying the HTTP ***statu
   "lastName": STRING,
   "email": STRING,
   "password": STRING,
-  "is_admin": BOOLEAN,
+  "isAdmin": BOOLEAN,
 }
 
 // product
